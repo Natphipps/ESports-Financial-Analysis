@@ -2,6 +2,7 @@
 
 E-Sports Financial Analysis Summary
 Hypothesis and Research Questions
+
 This project focused on the financial analysis of the esports industry. Specifically we wanted to know if a player's country of origin had any impact on their overall earnings. We started our investigation by establishing our null hypothesis (H0): Player Country of origin has no bearing, positive or negative, on the amount of money a player is capable of earning in e-sports. We gathered two csv files from kaggle, and merged them into one dataset that included PlayerId, Name, Handle, CountryCode, TotalUSDPrize, Game, Genre, Continent Name, and Country Name. We explored our dataset to uncover any patterns, and trends that may answer our primary research questions: 
 -Is there visual variability in the earnings each country makes?
 -Is there a relationship between the genre of game and how much a country earns?
